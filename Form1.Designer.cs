@@ -7,6 +7,7 @@
         /// </summary>
         private System.ComponentModel.IContainer components = null;
         /// Adrian: I added this comment to indicate that the followin
+        /// Jeremy : I added this comment to indicate that the following code is 
         /// <summary>
         ///  Clean up any resources being used.
         /// </summary>
